@@ -23,8 +23,8 @@ This project is a web application that allows users to search for GitHub reposit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fisapool/GitHub-Repository-Search-UI.git
-   cd GitHub-Repository-Search-UI
+   git clone https://github.com/fisapool/GitHub-Repository-Search-with-TerminalUI.git
+   cd GitHub-Repository-Search-with-TerminalUI
    ```
 
 2. Install dependencies:
